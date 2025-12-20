@@ -5,7 +5,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?logo=prometheus)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326CE5?logo=kubernetes)
-
+----
 **KubePulse** is a small Python FastAPI service designed for Kubernetes monitoring demos:
 - `/metrics` exposes Prometheus counters, histograms, gauges, and a summary
 - `/probe` performs external HTTP checks and records latency
