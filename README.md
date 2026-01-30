@@ -1,4 +1,4 @@
-# 📡 KubePulse — Kubernetes + Monitoring Microservice
+# 📡 KubePulse - Kubernetes + Monitoring Microservice
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)
