@@ -185,7 +185,7 @@ Scrape through an Ingress with TLS for production
 Centralize logs and add tracing if needed
 
 Use HPA on CPU and requests per second when you demo /simulate-latency
-
+---
 👤 Author
 Siddharth Raut — DevOps & Cloud Engineer
 update contribution
