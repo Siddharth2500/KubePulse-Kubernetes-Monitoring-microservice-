@@ -42,7 +42,7 @@ Flow:
 4. Deploy as a Docker container behind a Kubernetes Service
 5. Optionally use a **ServiceMonitor** for Prometheus Operator
 
------
+-------
 
 ## 📦 Repository Structure
 
