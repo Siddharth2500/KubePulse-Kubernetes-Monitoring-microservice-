@@ -27,7 +27,7 @@
 | Orchestrator | **Kubernetes** | Deployment, Service, probes |
 | Optional | **ServiceMonitor** | For Prometheus Operator setups |
 
-----------
+------------
 
 ## 🌐 Architecture
 
